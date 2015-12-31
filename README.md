@@ -1,4 +1,4 @@
-# HACKER RANK
+# Hacker Rank
 
 My solutions to problems and contests from <a href="https://www.hackerrank.com" target="_blank">HackerRank</a>, which I use to practice problem solving and learn programming in different languages.
 
